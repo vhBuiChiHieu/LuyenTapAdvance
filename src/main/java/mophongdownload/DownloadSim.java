@@ -61,22 +61,28 @@ public class DownloadSim {
     private static class FileDownload {
         private String name;
         private long timeDownload;
+
         public FileDownload(String name, long timeDownload) {
             this.name = name;
             this.timeDownload = timeDownload;
         }
+
         public String getName() {
             return name;
         }
+
         public void setName(String name) {
             this.name = name;
         }
+
         public long getTimeDownload() {
             return timeDownload;
         }
+
         public void setTimeDownload(long timeDownload) {
             this.timeDownload = timeDownload;
         }
+
         @Override
         public String toString() {
             return name + ":" + timeDownload;

@@ -1,4 +1,5 @@
 package bai4;
+
 public class Main {
     public static void main(String[] args) {
         SharedData sharedData = new SharedData();
@@ -12,7 +13,7 @@ public class Main {
             thread1.join();
             thread2.join();
             thread3.join();
-        } catch (InterruptedException e){
+        } catch (InterruptedException e) {
             e.printStackTrace();
         }
         System.out.println("Chuong trinh ket thuc");

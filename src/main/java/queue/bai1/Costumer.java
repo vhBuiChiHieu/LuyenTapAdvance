@@ -7,7 +7,7 @@ public class Costumer {
     private int age;
     private String address;
 
-    public void getInfo(){
+    public void getInfo() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Name: ");
         name = scanner.nextLine();
@@ -17,11 +17,13 @@ public class Costumer {
         System.out.print("Address: ");
         address = scanner.nextLine();
     }
-    public void showInfo(){
+
+    public void showInfo() {
         System.out.println("\nName: " + name);
         System.out.println("Age: " + age);
         System.out.println("Address: " + address + "\n");
     }
+
     public String getName() {
         return name;
     }

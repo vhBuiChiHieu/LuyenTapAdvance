@@ -1,10 +1,14 @@
 package bai4;
+
 import java.util.Random;
+
 public class Thread1 extends Thread {
     private final SharedData data;
+
     public Thread1(SharedData data) {
         this.data = data;
     }
+
     @Override
     public void run() {
         try {

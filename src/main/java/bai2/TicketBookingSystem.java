@@ -6,8 +6,9 @@ import java.util.concurrent.Executors;
 
 public class TicketBookingSystem {
     private static int soVe = 100;
-    public static synchronized void datVe(String ten, int soLuong){
-        if (soVe >= soLuong){
+
+    public static synchronized void datVe(String ten, int soLuong) {
+        if (soVe >= soLuong) {
             soVe -= soLuong;
             System.out.println(ten + ": Dat Ve Thanh Cong " + soLuong + " Ve.");
         } else {
@@ -15,6 +16,7 @@ public class TicketBookingSystem {
         }
         System.out.println("So Ve Con Lai: " + soVe);
     }
+
     public static void main(String[] args) {
         //70 khach
         ExecutorService threadPool = Executors.newFixedThreadPool(70);
@@ -24,7 +26,7 @@ public class TicketBookingSystem {
                 @Override
                 public void run() {
                     String threadName = Thread.currentThread().getName();
-                    datVe("Thread " + index, new Random().nextInt(1,4));
+                    datVe("Thread " + index, new Random().nextInt(1, 4));
                 }
             });
         }

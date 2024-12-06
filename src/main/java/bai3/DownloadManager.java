@@ -30,7 +30,7 @@ public class DownloadManager {
                 int dataDownloaded = 0;
                 int percent;
                 System.out.println("Thread[" + index + "] bat dau tai file " + (index + 1) + ":" + dataSize + "MB");
-                while (dataDownloaded < dataSize){
+                while (dataDownloaded < dataSize) {
                     try {
                         Thread.sleep(1000);
                     } catch (InterruptedException e) {

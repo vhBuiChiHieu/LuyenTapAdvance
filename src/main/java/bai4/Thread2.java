@@ -1,9 +1,12 @@
 package bai4;
+
 public class Thread2 extends Thread {
     private final SharedData data;
+
     public Thread2(SharedData data) {
         this.data = data;
     }
+
     @Override
     public void run() {
         try {
