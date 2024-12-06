@@ -1,0 +1,616 @@
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue[]
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue[File2:7000]
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue[File3:1000]
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue[File4:12000]
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue[File5:5000]
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue[File6:5000]
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue[File6:5000, File7:9000]
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue[File6:5000, File7:9000, File8:10000]
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue[File6:5000, File7:9000, File8:10000, File9:2000]
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue[File6:5000, File7:9000, File8:10000, File9:2000, File10:9000]
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[15:25:20 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[15:25:21 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[15:25:23 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[15:25:25 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[15:25:26 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[15:25:27 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File10:9000.
+[15:28:37 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue[]
+[15:28:37 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue[File2:7000]
+[15:28:37 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue[File3:1000]
+[15:28:37 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue[File3:1000, File4:12000]
+[15:28:37 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue[File3:1000, File4:12000, File5:5000]
+[15:28:37 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue[File3:1000, File4:12000, File5:5000, File6:5000]
+[15:28:37 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[15:28:37 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[15:28:40 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[15:28:40 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue[File4:12000, File5:5000, File6:5000, File7:9000]
+[15:28:41 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[15:28:41 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue[File5:5000, File6:5000, File7:9000, File8:10000]
+[15:28:44 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[15:28:44 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue[File6:5000, File7:9000, File8:10000, File9:2000]
+[15:28:49 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[15:28:49 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue[File7:9000, File8:10000, File9:2000, File10:9000]
+[15:28:53 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[15:28:54 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[15:29:02 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[15:29:04 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File10:9000.
+[15:29:41 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue[]
+[15:29:41 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue[File2:7000]
+[15:29:41 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue[File3:1000]
+[15:29:41 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue[File3:1000, File4:12000]
+[15:29:41 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue[File3:1000, File4:12000, File5:5000]
+[15:29:41 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue[File3:1000, File4:12000, File5:5000, File6:5000]
+[15:29:41 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[15:29:41 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[15:29:44 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[15:29:44 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue[File4:12000, File5:5000, File6:5000, File7:9000]
+[15:29:45 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[15:29:45 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue[File5:5000, File6:5000, File7:9000, File8:10000]
+[15:29:58 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[15:29:58 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[15:29:58 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[15:29:58 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[15:29:58 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[15:29:58 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File3:1000, File4:12000, File5:5000, File6:5000]
+[15:29:58 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[15:29:58 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[15:30:01 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[15:30:01 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File4:12000, File5:5000, File6:5000, File7:9000]
+[15:30:02 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[15:30:02 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File5:5000, File6:5000, File7:9000, File8:10000]
+[15:30:57 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:30:57 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[15:30:57 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[15:30:57 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[15:31:19 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:31:19 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[15:31:19 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[15:31:19 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[15:32:11 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[15:32:11 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[15:32:11 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[15:32:11 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[15:32:11 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[15:32:11 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File3:1000, File4:12000, File5:5000, File6:5000]
+[15:32:11 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[15:32:11 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[15:32:14 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[15:32:14 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File4:12000, File5:5000, File6:5000, File7:9000]
+[15:32:15 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[15:32:15 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File5:5000, File6:5000, File7:9000, File8:10000]
+[15:32:18 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[15:32:18 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File6:5000, File7:9000, File8:10000, File9:2000]
+[15:32:23 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[15:32:23 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File7:9000, File8:10000, File9:2000, File10:9000]
+[15:32:27 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[15:32:28 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[15:32:36 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[15:32:38 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File10:9000.
+[15:35:37 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:35:37 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[15:37:34 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:37:34 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[15:38:14 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:38:20 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[15:39:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:39:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[15:39:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[15:39:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[15:45:03 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[15:45:03 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[15:45:03 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[15:45:03 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[15:45:03 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[15:45:03 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File3:1000, File4:12000, File5:5000, File6:5000]
+[15:45:03 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[15:45:03 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[15:45:06 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[15:45:06 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File4:12000, File5:5000, File6:5000, File7:9000]
+[15:45:07 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[15:45:07 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File5:5000, File6:5000, File7:9000, File8:10000]
+[15:45:10 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[15:45:10 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File6:5000, File7:9000, File8:10000, File9:2000]
+[15:45:36 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:45:36 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[15:45:36 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[15:45:36 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[15:46:16 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:46:16 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[15:46:16 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[15:46:16 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[15:46:43 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:46:43 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[15:46:43 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[15:46:43 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[15:47:29 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:47:29 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[15:47:29 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[15:47:29 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[15:53:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[15:53:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[15:53:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[15:53:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[15:53:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[15:53:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File3:1000, File4:12000, File5:5000, File6:5000]
+[15:53:48 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[15:53:48 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[15:53:51 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[15:53:51 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File4:12000, File5:5000, File6:5000, File7:9000]
+[15:53:52 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[15:53:52 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File5:5000, File6:5000, File7:9000, File8:10000]
+[15:53:55 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[15:53:55 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File6:5000, File7:9000, File8:10000, File9:2000]
+[15:57:12 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:57:12 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[15:57:12 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[15:57:12 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[15:57:44 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:57:44 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[15:57:44 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[15:57:44 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[15:58:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[15:58:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[15:58:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[15:58:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[15:59:37 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[16:00:13 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:00:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[16:00:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[16:00:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[16:00:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[16:01:25 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[16:01:25 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File1:3000, File2:7000]
+[16:01:25 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File1:3000, File2:7000, File3:1000]
+[16:01:25 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File1:3000, File2:7000, File3:1000, File4:12000]
+[16:02:19 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[16:02:19 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:02:25 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[16:02:25 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:02:28 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[16:02:28 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[16:02:35 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[16:02:35 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[16:02:36 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File4:12000]
+[16:02:36 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[16:02:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File5:5000]
+[16:02:48 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[16:02:53 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File6:5000]
+[16:02:53 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[16:04:57 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[16:04:57 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:04:57 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[16:04:57 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[16:04:57 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[16:05:00 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[16:05:00 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File4:12000]
+[16:05:01 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[16:05:01 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File5:5000]
+[16:05:04 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[16:05:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File6:5000]
+[16:05:09 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[16:05:09 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File7:9000]
+[16:05:13 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[16:05:13 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File8:10000]
+[16:05:14 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[16:05:14 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File9:2000]
+[16:05:27 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[16:05:27 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:05:27 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[16:05:27 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[16:05:27 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[16:05:31 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[16:05:31 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File4:12000]
+[16:05:32 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[16:05:32 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File5:5000]
+[16:05:35 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[16:05:35 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File6:5000]
+[16:05:40 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[16:05:40 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File7:9000]
+[16:05:44 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[16:05:44 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File8:10000]
+[16:05:45 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[16:05:45 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File9:2000]
+[16:05:53 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[16:05:53 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File10:9000]
+[16:06:01 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[16:06:01 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:06:01 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[16:06:01 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[16:06:01 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[16:06:04 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[16:06:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File4:12000]
+[16:06:05 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[16:06:05 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File5:5000]
+[16:06:08 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[16:06:08 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File6:5000]
+[16:06:13 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[16:06:13 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File7:9000]
+[16:06:49 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[16:06:49 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:06:49 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[16:06:49 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[16:06:49 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[16:06:52 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[16:06:52 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File4:12000]
+[16:06:53 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[16:06:53 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File5:5000]
+[16:06:56 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[16:06:56 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File6:5000]
+[16:07:01 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[16:07:01 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File7:9000]
+[16:07:05 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[16:07:05 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File8:10000]
+[16:07:06 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[16:07:06 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File9:2000]
+[16:07:14 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[16:07:14 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File10:9000]
+[16:07:16 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File10:9000.
+[16:07:59 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[File1:3000]
+[16:07:59 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:07:59 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[16:07:59 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[16:07:59 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[16:08:02 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[16:08:02 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File4:12000]
+[16:08:03 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[16:08:03 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File5:5000]
+[16:08:06 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[16:08:06 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File6:5000]
+[16:08:11 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[16:08:11 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File7:9000]
+[16:08:15 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[16:08:15 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File8:10000]
+[16:08:16 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[16:08:16 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File9:2000]
+[16:08:24 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[16:08:24 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File10:9000]
+[16:08:26 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File10:9000.
+[16:12:29 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[16:12:29 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[16:12:29 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[16:12:29 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[16:12:29 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[16:12:29 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:12:29 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[16:12:32 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[16:12:32 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File4:12000, File5:5000, File6:5000]
+[16:12:33 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[16:12:33 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File5:5000, File6:5000, File7:9000]
+[16:12:36 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[16:12:36 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File6:5000, File7:9000, File8:10000]
+[16:12:41 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[16:12:41 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File7:9000, File8:10000, File9:2000]
+[16:12:45 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[16:12:45 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File8:10000, File9:2000, File10:9000]
+[16:12:46 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[16:12:54 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[16:12:56 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File10:9000.
+[16:13:05 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[16:13:05 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[16:13:05 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[16:13:05 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[16:13:05 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[16:13:05 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File3:1000, File4:12000, File5:5000, File6:5000]
+[16:13:05 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:13:05 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[16:13:08 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[16:13:08 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File4:12000, File5:5000, File6:5000, File7:9000]
+[16:13:09 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[16:13:09 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File5:5000, File6:5000, File7:9000, File8:10000]
+[16:13:12 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[16:13:12 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File6:5000, File7:9000, File8:10000, File9:2000]
+[16:13:17 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[16:13:17 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File7:9000, File8:10000, File9:2000, File10:9000]
+[16:13:21 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[16:13:22 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[16:13:30 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[16:13:32 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File10:9000.
+[16:13:45 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[16:13:45 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[16:13:45 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[16:13:45 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[16:13:45 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[16:13:45 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File3:1000, File4:12000, File5:5000, File6:5000]
+[16:13:45 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:13:45 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[16:13:48 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[16:13:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File4:12000, File5:5000, File6:5000, File7:9000]
+[16:13:49 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[16:13:49 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File5:5000, File6:5000, File7:9000, File8:10000]
+[16:13:52 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[16:13:52 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File6:5000, File7:9000, File8:10000, File9:2000]
+[16:13:57 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[16:13:57 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File7:9000, File8:10000, File9:2000, File10:9000]
+[16:14:01 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[16:14:02 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[16:14:10 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[16:14:12 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File10:9000.
+[16:15:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[16:15:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[16:15:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[16:15:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[16:15:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[16:15:48 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File3:1000, File4:12000, File5:5000, File6:5000]
+[16:15:48 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[16:15:48 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[16:15:51 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[16:15:51 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File4:12000, File5:5000, File6:5000, File7:9000]
+[16:15:52 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[16:15:52 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File5:5000, File6:5000, File7:9000, File8:10000]
+[16:15:55 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[16:15:55 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File6:5000, File7:9000, File8:10000, File9:2000]
+[16:16:00 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[16:16:00 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File7:9000, File8:10000, File9:2000, File10:9000]
+[16:16:04 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[16:16:05 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[16:16:13 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[16:16:15 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File10:9000.
+[17:16:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[17:16:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[17:16:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[17:16:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[17:16:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[17:16:04 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File3:1000, File4:12000, File5:5000, File6:5000]
+[17:16:04 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[17:16:04 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[17:16:07 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[17:16:07 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File4:12000, File5:5000, File6:5000, File7:9000]
+[17:16:08 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[17:16:08 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File5:5000, File6:5000, File7:9000, File8:10000]
+[17:16:11 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[17:16:11 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File6:5000, File7:9000, File8:10000, File9:2000]
+[17:16:16 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[17:16:16 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File7:9000, File8:10000, File9:2000, File10:9000]
+[17:16:20 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[17:16:21 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[17:56:39 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[17:56:39 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[17:56:39 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[17:56:39 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[17:56:39 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[17:56:39 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File3:1000, File4:12000, File5:5000, File6:5000]
+[17:56:39 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[17:56:39 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[17:56:42 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[17:56:42 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File4:12000, File5:5000, File6:5000, File7:9000]
+[17:56:43 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[17:56:43 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File5:5000, File6:5000, File7:9000, File8:10000]
+[17:56:46 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[17:56:46 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File6:5000, File7:9000, File8:10000, File9:2000]
+[17:56:51 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[17:56:51 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File7:9000, File8:10000, File9:2000, File10:9000]
+[17:56:55 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File7:9000.
+[17:56:56 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File8:10000.
+[17:57:04 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File9:2000.
+[17:57:06 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File10:9000.
+[17:57:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File1 to Queue
+[]
+[17:57:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File2 to Queue
+[File2:7000]
+[17:57:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File3 to Queue
+[File3:1000]
+[17:57:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File4 to Queue
+[File3:1000, File4:12000]
+[17:57:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File5 to Queue
+[File3:1000, File4:12000, File5:5000]
+[17:57:47 05-12-2024] [INFO] mophongdownload.DownloadSim - add File6 to Queue
+[File3:1000, File4:12000, File5:5000, File6:5000]
+[17:57:47 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File1:3000.
+[17:57:47 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File2:7000.
+[17:57:50 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File3:1000.
+[17:57:50 05-12-2024] [INFO] mophongdownload.DownloadSim - add File7 to Queue
+[File4:12000, File5:5000, File6:5000, File7:9000]
+[17:57:51 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File4:12000.
+[17:57:51 05-12-2024] [INFO] mophongdownload.DownloadSim - add File8 to Queue
+[File5:5000, File6:5000, File7:9000, File8:10000]
+[17:57:54 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File5:5000.
+[17:57:54 05-12-2024] [INFO] mophongdownload.DownloadSim - add File9 to Queue
+[File6:5000, File7:9000, File8:10000, File9:2000]
+[17:57:59 05-12-2024] [INFO] mophongdownload.DownloadSim - Starting download File6:5000.
+[17:57:59 05-12-2024] [INFO] mophongdownload.DownloadSim - add File10 to Queue
+[File7:9000, File8:10000, File9:2000, File10:9000]
